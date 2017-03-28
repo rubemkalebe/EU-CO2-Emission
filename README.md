@@ -11,4 +11,4 @@ The source codes and the notebook with the analysis are in *src* folder.
 
 Rubem Kalebe (rubemkalebe@gmail.com)
 
-Repository link: https://github.com/rubemkalebe/IMDBetGame/
+Repository link: https://github.com/rubemkalebe/EU-CO2-Emission/
