@@ -2,7 +2,7 @@
 
 Study on CO2 emission in European Union.
 
-Read **CO2_emission_analysis.ipynb** notebook for more informations.
+Read <a href="https://github.com/rubemkalebe/EU-CO2-Emission/blob/master/CO2_emission_analysis.ipynb">CO2_emission_analysis.ipynb</a> notebook for more informations.
 
 
 ## Developer
