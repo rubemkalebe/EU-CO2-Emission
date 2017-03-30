@@ -2,9 +2,7 @@
 
 Study on CO2 emission in European Union.
 
-
-## Pay Attention
-The source codes and the notebook with the analysis are in *src* folder.
+Read **CO2_emission_analysis.ipynb** notebook for more informations.
 
 
 ## Developer
