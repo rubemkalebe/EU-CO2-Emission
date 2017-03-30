@@ -95,7 +95,7 @@ class EmissionByFuelPlot(object):
                 label = cat(columns = 'fuel'),\
                 stack = cat(columns = 'average'),\
                 agg = 'mean',\
-                title = 'Average of CO2 emissions in ' + self.__title,\
+                title = 'Average of CO2 emissions (by fuel type) in ' + self.__title,\
                 legend = False,\
                 tooltips = [('Average', '@average{1.11}' + ' g/km')])
         return bar
@@ -110,7 +110,7 @@ class EmissionByFuelPlot(object):
                 label = cat(columns = 'fuel'),\
                 stack = cat(columns = 'total'),\
                 agg = 'mean',\
-                title = 'Total of CO2 emissions in ' + self.__title,\
+                title = 'Total of CO2 emissions (by fuel type) in ' + self.__title,\
                 legend = False,\
                 tooltips = [('Total', '@total{1,1}' + ' g/km')])
         bar._yaxis.formatter = NumeralTickFormatter(format = '0,0' + ' g/km')

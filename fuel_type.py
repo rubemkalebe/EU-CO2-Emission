@@ -47,7 +47,7 @@ class FuelTypePlot(object):
                 
         # Update
         self.updateTable()
-        self.__title = 'Fuel types used in European Union'
+        self.__title = 'Fuel types in use in European Union'
 
     '''
     Process data by country to generate relevant information
@@ -70,7 +70,7 @@ class FuelTypePlot(object):
                 
         # Update
         self.updateTable()
-        self.__title = 'Fuel types used in ' + data_helper.country[country]
+        self.__title = 'Fuel types in use in ' + data_helper.country[country]
         
     '''
     Update fuel_table
